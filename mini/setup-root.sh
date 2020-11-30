@@ -1,4 +1,4 @@
-#!/bin/sh -x -e
+#!/bin/sh -xe
 
 if [ -f root ]; then
 	echo "ERROR: already there, will not setup"
