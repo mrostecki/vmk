@@ -33,3 +33,5 @@ sshport=2201
 
 # git dir with kernel
 gitdir=/tmp
+# git dir with fstests
+gitdir_fstests=/tmp/fstests
